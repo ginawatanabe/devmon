@@ -19,7 +19,7 @@ To complete this project, students should have the following:
 
 To complete Part I, fulfill the following requirements:
 * Set up your project file structure through the command line.
-* Create an `HTML` structure like the one attached.  
+* Create an `HTML` structure with a `CSS` stylesheet to mimic the layout attached.  
 * Load 3 Devmon images to your page in their respective boxes.
 * Add a CSS animation upon hovering over a Devmon image.
 
