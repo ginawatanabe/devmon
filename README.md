@@ -34,7 +34,7 @@ To complete Part II, fulfill the following requirements:
 * In the `app.js` create the logic to change the text displayed when clicking on a Devmon.
   * Select the `text container` element.
   * Create an `onclick` Event Handler for each Devmon image.
-  * Change the `inner HTML` of the text container to display a unique description of each Devmon on click.
+  * Change the `inner HTML` of the `text container` to display a unique description of each Devmon on click.
 * In the `app.js` create the logic to play a sound when clicking on the button.
   * Create an `onclick` Event Handler for the button element.
   * Play the sound file located in the `sound` folder when clicking the button.  
@@ -45,9 +45,9 @@ To complete Part II, fulfill the following requirements:
 * Use a `case switch` statement to change the text container's inner HTML when clicking on each Devmon.
 
 ## Resources
-[Layout]()
-[Images]()
-[Sounds]()
+* [Layout]()
+* [Images]()
+* [Sounds]()
 
-[InnerHTML Property](https://www.w3schools.com/jsref/prop_html_innerhtml.asp)
-[JavaScript Events](https://www.w3schools.com/js/js_htmldom_events.asp)
+* [InnerHTML Property](https://www.w3schools.com/jsref/prop_html_innerhtml.asp)
+* [JavaScript Events](https://www.w3schools.com/js/js_htmldom_events.asp)
