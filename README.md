@@ -19,24 +19,35 @@ To complete this project, students should have the following:
 
 To complete Part I, fulfill the following requirements:
 * Set up your project file structure through the command line.
-* Create an HTML structure like the one attached.  
+* Create an `HTML` structure like the one attached.  
 * Load 3 Devmon images to your page in their respective boxes.
 * Add a CSS animation upon hovering over a Devmon image.
 
-### Part I Stretch Goals
+### Stretch Goals
 
-* Pretty up your page. Select additional images from the 'images' folder to design your layout.
+* Pretty up your page. Select additional images from the `images` folder to design your layout.
 * Draw attention to the Devmon being hovered over by creating an animation to make the image grow bigger than the others.
 
 ### Part II
 
 To complete Part II, fulfill the following requirements:
-* Change the inner HTML of the text container (red section on layout image), to display a unique description of each Devmon when the image of a Devmon is clicked.
-* Play the sound file attached when clicking the button.  
+* In the `app.js` create the logic to change the text displayed when clicking on a Devmon.
+  * Select the `text container` element.
+  * Create an `onclick` Event Handler for each Devmon image.
+  * Change the `inner HTML` of the text container to display a unique description of each Devmon on click.
+* In the `app.js` create the logic to play a sound when clicking on the button.
+  * Create an `onclick` Event Handler for the button element.
+  * Play the sound file located in the `sound` folder when clicking the button.  
 
 ### Stretch Goals
 
 * Play the Devmon's battle cry on click of the Devmon image.
-* Use a 'case switch' statement to change the text container's inner HTML when clicking on each Devmon.
+* Use a `case switch` statement to change the text container's inner HTML when clicking on each Devmon.
 
 ## Resources
+[Layout]()
+[Images]()
+[Sounds]()
+
+[InnerHTML Property](https://www.w3schools.com/jsref/prop_html_innerhtml.asp)
+[JavaScript Events](https://www.w3schools.com/js/js_htmldom_events.asp)
