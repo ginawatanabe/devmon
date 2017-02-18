@@ -2,6 +2,8 @@
 
 You’re in charge of creating the starter layout for the newest edition of Devmon - Fire Flexbox. Players will be choosing their first Devmon for the game. Use your HTML, CSS, and Flexbox skills to craft the layout for this page.  
 
+![alt text](https://github.com/ginawatanabe/devmon/images/alldevballs.png)
+
 ## Objective
 
 Use **Flexbox** properties to style **HTML Elements** and **JavaScript Logic** and **Events** to change inner HTML on click of an image, create a button, and play sound when the button is clicked.
