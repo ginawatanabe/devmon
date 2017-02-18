@@ -4,7 +4,7 @@ You’re in charge of creating the starter layout for the newest edition of Devm
 
 ## Objective
 
-Use **Flexbox** properties to style **HTML Elements**, **CSS3** animations to generate movement upon hovering over an image, and **JavaScript Logic** and **Events** to change inner HTML on click of an image, create a button, and play sound when the button is clicked.
+Use **Flexbox** properties to style **HTML Elements** and **JavaScript Logic** and **Events** to change inner HTML on click of an image, create a button, and play sound when the button is clicked.
 
 ## Prerequisites
 
@@ -20,29 +20,32 @@ To complete this project, students should have the following:
 To complete Part I, fulfill the following requirements:
 * Set up your project file structure through the command line.
 * Create an `HTML` structure with a `CSS` stylesheet to mimic the layout attached.  
-* Load 3 Devmon images to your page in their respective boxes.
-* Add a CSS animation upon hovering over a Devmon image.
-
-### Stretch Goals
-
-* Pretty up your page. Select additional images from the `images` folder to design your layout.
-* Draw attention to the Devmon being hovered over by creating an animation to make the image grow bigger than the others.
+* Load 3 Devball images to your page in their respective boxes.
 
 ### Part II
 
 To complete Part II, fulfill the following requirements:
-* In the `app.js` create the logic to change the text displayed when clicking on a Devmon.
-  * Select the `text container` element.
+* Create a file called `app.js` and change the text displayed in the `text container`, play the Devmon's battle cry, and enlarge the image when clicking on the image of a Devball.
+  * Select the HTML element with the current text of "Placeholder" and give it an `id` of `text container`.
+  * Select the Devball images.
   * Create an `onclick` Event Handler for each Devmon image.
-  * Change the `inner HTML` of the `text container` to display a unique description of each Devmon on click.
-* In the `app.js` create the logic to play a sound when clicking on the button.
+    * Change the `inner HTML` of the `text container` to display a unique description of each Devmon on click.
+    * Play the sound of the Devmon's cry on click.
+    * Make the Devmon image larger than the rest on click.  
+
+### Part III
+
+To complete Part III, fulfill the following requirements:
+* In the `app.js` create the logic to play a sound and change the enlarged image of the Devball to an actual Devmon when clicking on the button.
   * Create an `onclick` Event Handler for the button element.
-  * Play the sound file located in the `sound` folder when clicking the button.  
+    * Play the sound file `theme.wav` located in the `sound` folder when clicking the button.  
+    * Change the source of the enlarged image to that of a Devmon when clicking the button.
 
 ### Stretch Goals
 
-* Play the Devmon's battle cry on click of the Devmon image.
-* Use a `case switch` statement to change the text container's inner HTML when clicking on each Devmon.
+* Pretty up your page.
+* Add a CSS animation upon hovering over a Devball image.
+* Use a `case switch` statement in your JavaScript logic.
 
 ## Resources
 * [Devmon Layout]()
