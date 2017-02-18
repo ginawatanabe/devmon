@@ -2,7 +2,7 @@
 
 You’re in charge of creating the starter layout for the newest edition of Devmon - Fire Flexbox. Players will be choosing their first Devmon for the game. Use your HTML, CSS, and Flexbox skills to craft the layout for this page.  
 
-![alt text](https://github.com/ginawatanabe/devmon/images/alldevballs.png)
+![Devball](https://github.com/ginawatanabe/raw/devmon/images/alldevballs.png)
 
 ## Objective
 
