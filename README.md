@@ -41,7 +41,7 @@ To complete Part III, fulfill the following requirements:
 * In the `app.js` create the logic to play a sound and change the enlarged image of the Devball to an actual Devmon image when clicking on the button.
   * Create an `onclick` Event Handler for the button element.
     * Play the [sound](https://github.com/ginawatanabe/devmon/tree/master/sound) file `theme.wav` when clicking the button.  
-    * Change the image source of the enlarged image to that of a Devmon when clicking the button.
+    * Change the image source of the enlarged image to that of a [Devmon](https://github.com/ginawatanabe/devmon/tree/master/images) when clicking the button.
 
 ### Stretch Goals
 
