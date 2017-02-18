@@ -6,7 +6,7 @@ You’re in charge of creating the starter layout for the newest edition of Devm
 
 ## Objective
 
-Use **Flexbox** properties to style **HTML Elements** and **JavaScript Logic** and **Events** to change inner HTML on click of an image, create a button, and play sound when the button is clicked.
+Use **Flexbox** properties to style **HTML Elements** and **JavaScript Logic** and **Events** to change inner HTML on click of an image, manipulate image size, change the source of an image, create a button, and play sounds when the button and image are clicked.
 
 ## Prerequisites
 
@@ -21,7 +21,7 @@ To complete this project, students should have the following:
 
 To complete Part I, fulfill the following requirements:
 * Set up your project file structure through the command line.
-* Create an `HTML` structure with a `CSS` stylesheet to mimic the layout attached.  
+* Create an `HTML` structure with a `CSS` stylesheet to mimic the layout in the `images` folder.  
 * Load 3 Devball images to your page in their respective boxes.
 
 ### Part II
